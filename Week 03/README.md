@@ -3,8 +3,9 @@
 
 ## Course Information
 - **Course Code:** CS-1101  
-- **Course Title:** Programming Fundamentals  
-- **Topics Covered:** Variables, Constants, Comments, Identifiers, Data Types  
+- **Course Title:** Programming Fundamentals
+- **Lab Number:** 03   
+- **Topics:** Variables, Constants, Comments, Identifiers, Data Types  
 - **Instructor:** Engr. Muhammad Awais  
 
 ---
